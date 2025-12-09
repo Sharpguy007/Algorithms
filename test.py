@@ -62,3 +62,5 @@ def find_missing_number(arr):
 my_array = [1, 2, 4, 6, 3, 7, 8] # n=8, missing 5
 missing = find_missing_number(my_array)
 print(f"The missing number in {my_array} is: {missing}")
+
+# this is a comment
